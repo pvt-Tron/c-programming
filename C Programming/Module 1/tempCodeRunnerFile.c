@@ -1,0 +1,1 @@
+    printf("%da %db",a,b);
